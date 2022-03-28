@@ -1,6 +1,50 @@
-## Welcome to GitHub Pages
+## Manage Food & Drink Shop with Google Sheet
 
-You can use the [editor on GitHub](https://github.com/NamReplIT/managefood-drinkbyggsheet/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Before using "Manage Food & Drink Shop with Google Sheet" app, we need you to set up few things as shown below : 
+
+**Step 1 :** Create Sheet and Set Restriction
+
+▶️ Follow this video : [https://youtu.be/JsDH4EvjWrQ](https://youtu.be/JsDH4EvjWrQ)
+
+**Step 2 :** Create A Sharing Folder and Set Restriction which contains you order images
+
+▶️ Follow this video : [https://youtu.be/XyHHGTdf98I](https://youtu.be/XyHHGTdf98I)
+
+
+**Step 3 :** Create List Of Orders sheet, List Of Table sheet and Bill Sheet
+
+▶️ Create List Of Orders Sheet : [https://youtu.be/Gop7xmhcblo](https://youtu.be/Gop7xmhcblo)
+
+==> This sheet contains your order name, order price and order image which will be used in app later.
+
+==> You also can update this list later.
+
+▶️ Create List Of Table Sheet : [https://youtu.be/sBBeWPXjFMw](https://youtu.be/sBBeWPXjFMw)
+
+==> This sheet contains name of tables.
+
+==> You also can update your this list later.
+
+
+**Step 4 : (Optional - It's not required)**  Download and Install Lark and Create Lark Group for sending message when you send a request for ordering dishes
+
+▶️ Download and Install Lark : [https://youtu.be/Fya3E9LBeZM](https://youtu.be/Fya3E9LBeZM)
+
+▶️ Create Lark Group : [https://youtu.be/Z98iqRT9rO8](https://youtu.be/Z98iqRT9rO8)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
