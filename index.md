@@ -32,7 +32,7 @@ Before using "Manage Food & Drink Shop with Google Sheet" app, we need you to se
 
 ▶️ Create Lark Group : [https://youtu.be/SVc6s_HUzXc](https://youtu.be/SVc6s_HUzXc)
 
-
+**Notice : Please note that, you are able to add bot to your lark group by working on PC/Laptop only.**
 
 
 
