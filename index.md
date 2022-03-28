@@ -30,7 +30,7 @@ Before using "Manage Food & Drink Shop with Google Sheet" app, we need you to se
 
 ▶️ Download and Install Lark : [https://youtu.be/Fya3E9LBeZM](https://youtu.be/Fya3E9LBeZM)
 
-▶️ Create Lark Group : [https://youtu.be/Z98iqRT9rO8](https://youtu.be/Z98iqRT9rO8)
+▶️ Create Lark Group : [https://youtu.be/SVc6s_HUzXc](https://youtu.be/SVc6s_HUzXc)
 
 
 
