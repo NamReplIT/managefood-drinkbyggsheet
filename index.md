@@ -38,8 +38,7 @@ Before using "Manage Food & Drink Shop with Google Sheet" app, we need you to se
 
 ### Open Your App : Manage Food & Drink Shop with Google Sheet :
 
-**Step 1 :** Open App -> Set Up -> Create list of food and drinks -> Press + to add order category:
-
+**Step 5 :** Open App -> Set Up -> Create list of food and drinks -> Press + to add order category:
 
 ▶️ Follow this video : [https://youtu.be/JsDH4EvjWrQ](https://youtu.be/JsDH4EvjWrQ)
 
