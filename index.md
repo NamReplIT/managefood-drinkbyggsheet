@@ -2,7 +2,7 @@
 
 Before using "Manage Food & Drink Shop with Google Sheet" app, we need you to set up few things as shown below : 
 
-**Step 1 :** Create Sheet and Set Restriction
+**Step 1 :** Open your google drive and create an sheet and set restriction
 
 ▶️ Follow this video : [https://youtu.be/JsDH4EvjWrQ](https://youtu.be/JsDH4EvjWrQ)
 
