@@ -34,6 +34,24 @@ Before using "Manage Food & Drink Shop with Google Sheet" app, we need you to se
 
 **Notice : Please note that, you are able to add bot to your lark group by working on PC/Laptop only.**
 
+**---------------------------YOU HAVE FINISHED SETTING UP REQUIREMENTS NOW THE TIME WORK WITH APP---------------------------------------**
+
+### Open Your App : Manage Food & Drink Shop with Google Sheet :
+
+**Step 1 :** Open App -> Set Up -> Create list of food and drinks -> Press + to add order category:
+
+
+▶️ Follow this video : [https://youtu.be/JsDH4EvjWrQ](https://youtu.be/JsDH4EvjWrQ)
+
+
+
+
+
+
+
+
+
+
 
 
 
