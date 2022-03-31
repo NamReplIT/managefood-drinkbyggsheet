@@ -26,7 +26,7 @@ Before using "Manage Food & Drink Shop with Google Sheet" app, we need you to se
 ==> You also can update your this list later.
 
 
-**Step 4 : **  Download and Install Lark and Create Lark Group for sending message when you send a request for ordering dishes (Real time send message to groups)
+**Step 4 :**  Download and Install Lark and Create Lark Group for sending message when you send a request for ordering dishes (Real time send message to groups)
 
 ▶️ Download and Install Lark : [https://youtu.be/Fya3E9LBeZM](https://youtu.be/Fya3E9LBeZM)
 
