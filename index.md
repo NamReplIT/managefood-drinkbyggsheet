@@ -38,6 +38,5 @@ Before using "Shop 4.0" app, we need you to set up few things as shown below :
 
 ### Open the app on your mobile
 
-**Step 5 :** Open App -> Set Up -> Create list of food and drinks -> Press + to add order category:
+**Step 5 :** Create order category
 
-▶️ Follow this video : [https://youtu.be/JsDH4EvjWrQ](https://youtu.be/JsDH4EvjWrQ)
