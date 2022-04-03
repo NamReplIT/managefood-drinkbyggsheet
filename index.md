@@ -39,5 +39,5 @@ Before using "Shop 4.0" app, we need you to set up few things as shown below :
 ### Open the app on your mobile
 
 **Step 5 :** Create order category
-![Image](./Create order category 1.png)
+![Image](./Create order category 1.PNG)
 
