@@ -1,6 +1,6 @@
-## Manage Food & Drink Shop with Google Sheet
+## Shop 4.0 - Manage your food or drink shop with Google Sheet and Lark
 
-Before using "Manage Food & Drink Shop with Google Sheet" app, we need you to set up few things as shown below : 
+Before using "Shop 4.0" app, we need you to set up few things as shown below : 
 
 **Step 1 :** Open your google drive and create an sheet and set restriction
 
@@ -36,7 +36,7 @@ Before using "Manage Food & Drink Shop with Google Sheet" app, we need you to se
 
 **---------------------------YOU HAVE FINISHED SETTING UP REQUIREMENTS NOW THE TIME WORK WITH APP---------------------------------------**
 
-### Open Your App : Manage Food & Drink Shop with Google Sheet :
+### Open the app on your mobile
 
 **Step 5 :** Open App -> Set Up -> Create list of food and drinks -> Press + to add order category:
 
