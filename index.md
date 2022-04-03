@@ -45,3 +45,12 @@ Before using "Shop 4.0" app, we need you to set up few things as shown below :
 
 ![Image](/Create order category 3.PNG)
 
+**Step 6 :** Create serving area category
+![Image](/Create serving area 1.PNG)
+
+![Image](/Create serving area 2.PNG)
+
+![Image](/Create serving area 3.PNG)
+
+**Finally :** Rock And Roll
+
