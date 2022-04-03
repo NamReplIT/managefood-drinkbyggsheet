@@ -54,3 +54,6 @@ Before using "Shop 4.0" app, we need you to set up few things as shown below :
 
 **Finally :** Rock And Roll
 
+▶️ Request Order and Charge :  [https://youtu.be/Z_8O1eFQ8eo](https://youtu.be/Z_8O1eFQ8eo)
+
+
